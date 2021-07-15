@@ -48,7 +48,7 @@ function CategoryDisplay () {
                             </thead>
                             <tbody>
                                 {category.map((data,idx) => {
-
+//test
                                     return(
                                         <tr>
                                             <th scope="row">{idx+1}</th>
